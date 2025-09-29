@@ -38,7 +38,7 @@
 
 * **链接**：[https://apipro.maynor1024.live/](https://apipro.maynor1024.live/)
 
-![中转API服务后台界面](https://restname.oss-cn-hangzhou.aliyuncs.com/image-20250930023039375.png)
+![image-20250930025241522](https://restname.oss-cn-hangzhou.aliyuncs.com/image-20250930025241522.png)
 
 #### **三、 Claude Code 账号合租（体验最新模型）**
 
