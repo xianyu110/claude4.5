@@ -23,6 +23,13 @@ layout: default
 
 这是一种通过国内服务器访问 Claude 的方式，通常价格非常亲民，并且**无需复杂的网络设置**。对于想快速体验、预算有限的用户来说是绝佳选择。
 
+<div class="feature-highlights">
+    <span class="feature-tag">🎨 自定义图标</span>
+    <span class="feature-tag">🌐 中文/English</span>
+    <span class="feature-tag">🌙 黑暗/明亮模式</span>
+    <span class="feature-tag">💰 高性价比</span>
+</div>
+
 * **特点**：价格门槛低，访问便捷。
 * **价格**：**最低仅 66 元/月**。
 * **链接**：[https://agi.maynor1024.live/list/#/home](https://agi.maynor1024.live/list/#/home)
@@ -35,8 +42,8 @@ layout: default
 
 <div class="feature-highlights">
     <span class="feature-tag">🎨 自定义图标</span>
-    <span class="feature-tag">🌐 多语言支持</span>
-    <span class="feature-tag">🎭 黑白主题模式</span>
+    <span class="feature-tag">🌐 中文/English</span>
+    <span class="feature-tag">🌙 黑暗/明亮模式</span>
     <span class="feature-tag">⚡ 高性能API</span>
 </div>
 
@@ -44,11 +51,18 @@ layout: default
 * **基础版链接**：[https://api.maynor1024.live/](https://api.maynor1024.live/)
 * **专业版链接**：[https://apipro.maynor1024.live/](https://apipro.maynor1024.live/)
 
-![中转API服务后台界面](https://restname.oss-cn-hangzhou.aliyuncs.com/image-20250930023039375.png)
+![中转API服务后台界面](https://restname.oss-cn-hangzhou.aliyuncs.com/image-20250930025241522.png)
 
 #### **三、 Claude Code 账号合租（体验最新模型）**
 
 通过与他人共享一个高级账号，您可以以较低的成本体验到官方最新的 **Claude 4.5** 模型。这种方式适合那些渴望第一时间尝鲜新功能的用户。
+
+<div class="feature-highlights">
+    <span class="feature-tag">🎨 自定义图标</span>
+    <span class="feature-tag">🌐 中文/English</span>
+    <span class="feature-tag">🌙 黑暗/明亮模式</span>
+    <span class="feature-tag">🚀 最新模型</span>
+</div>
 
 * **特点**：能够使用**最新的 Claude 4.5**，分摊成本。
 * **链接**：[https://codex.claude-opus.top/](https://codex.claude-opus.top/)
@@ -58,6 +72,13 @@ layout: default
 #### **四、 官方账号代充服务（稳定省心）**
 
 如果您追求最原汁原味的官方体验，并且希望**稳定、无忧**地使用，代充服务是最佳方案。服务商会帮您处理支付和账号问题，并提供**稳定质保**和**免魔法**网络支持。
+
+<div class="feature-highlights">
+    <span class="feature-tag">✅ 官方正版</span>
+    <span class="feature-tag">🔒 稳定质保</span>
+    <span class="feature-tag">🌐 免魔法网络</span>
+    <span class="feature-tag">💎 专业服务</span>
+</div>
 
 * **特点**：**稳定可靠**，**免魔法网络**，提供售后保障。
 * **价格**：
