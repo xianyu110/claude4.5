@@ -33,10 +33,16 @@ layout: default
 
 如果您是开发者，希望将 Claude 的强大能力集成到自己的应用程序、网站或工作流中，中转 API 是您的不二之选。它提供了标准的 API 接口，调用方式与官方一致。
 
-* **特点**：专为编程调用设计，灵活集成。
-* **链接**：[https://api.maynor1024.live/](https://api.maynor1024.live/)
+<div class="feature-highlights">
+    <span class="feature-tag">🎨 自定义图标</span>
+    <span class="feature-tag">🌐 多语言支持</span>
+    <span class="feature-tag">🎭 黑白主题模式</span>
+    <span class="feature-tag">⚡ 高性能API</span>
+</div>
 
-* **链接**：[https://apipro.maynor1024.live/](https://apipro.maynor1024.live/)
+* **特点**：专为编程调用设计，灵活集成，支持自定义配置。
+* **基础版链接**：[https://api.maynor1024.live/](https://api.maynor1024.live/)
+* **专业版链接**：[https://apipro.maynor1024.live/](https://apipro.maynor1024.live/)
 
 ![中转API服务后台界面](https://restname.oss-cn-hangzhou.aliyuncs.com/image-20250930023039375.png)
 
